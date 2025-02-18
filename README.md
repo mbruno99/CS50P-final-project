@@ -34,18 +34,18 @@ Modifying amount: If a transaction category already exists, users can modify the
 
 # How to Use the Program
 
-## Run the Program: Execute the project.py file using Python.
-## Enter Transactions:
+Run the Program: Execute the project.py file using Python.
+Enter Transactions:
 Type income to register an income.
 Type expense to register an expense.
 Type report to view a summary of transactions.
 Type save to save data to a CSV file.
 Type exit to save data and exit the program.
-## Interact with the Program:
+Interact with the Program:
 After selecting 'income' or 'expense', choose a category and enter the amount.
 If a category already exists, you can modify the amount.
 Upon closing the program, data is automatically saved.
-## Review Saved Data: The budget.csv file will contain all recorded transactions.
+Review Saved Data: The budget.csv file will contain all recorded transactions.
 
 # Requirements
 
